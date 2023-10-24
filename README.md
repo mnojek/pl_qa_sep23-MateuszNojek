@@ -1,3 +1,3 @@
-# Documentation for project
+# Documentation for project "Mega"
 
-Blah blah
+This projects is led by one developer
